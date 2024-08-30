@@ -8,7 +8,7 @@ The following examples that show how to use app startup code in different ways s
 - Minimal APIs
 
 # Projects
-## Extend Startup with Startup Filters
+## [Extend Startup with Startup Filters](Extend%20Startup%20with%20Startup%20Filters/Extend%20Startup%20with%20Startup%20Filters.csproj)
 
 ## Add Configuration at Startup from External Assembly
 
