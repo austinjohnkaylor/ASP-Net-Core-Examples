@@ -3,6 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fundamentals", "Fundamentals", "{C9C97626-90E8-42A8-A0C6-719E4CF9A25A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{ACB2E377-3C48-4E77-8969-46ACA651B7BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web Apps", "Web Apps", "{C73FEE52-9A86-43F5-986F-DC034A7B37DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Real-time Apps", "Real-time Apps", "{72324EC4-AA25-47A9-9F22-E191976DBD17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Remote Procedure Call Apps", "Remote Procedure Call Apps", "{ACD5FBB5-32E6-42DA-A3E7-C0D92DFD7A92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{2FA600E0-75AA-48B7-99E6-11C181C897AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Performance", "Performance", "{75DA390D-38E1-43F5-A54E-20D81673E0E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{77E4EE3E-0EE6-49AC-B028-55B2D0022D70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Access", "Data Access", "{71526FBE-01CC-4210-B605-657645A039F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Advanced Concepts", "Advanced Concepts", "{756FC959-281E-4D72-A206-090A5FFA5634}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Globalization and Localization", "Globalization and Localization", "{8923468D-05DA-4FA9-B56A-978435AD6EDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servers", "Servers", "{61216A04-B71F-4177-8FDA-88BE6055C20A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Best Practices", "Best Practices", "{73C93DB9-2057-463C-9B84-C8F699BAD096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
