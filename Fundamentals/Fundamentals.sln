@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App Startup", "App Startup", "{0E37CB64-3BA3-4AC0-A0AC-2825E711BC2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extend Startup with Startup Filters", "App Startup\Extend Startup with Startup Filters\Extend Startup with Startup Filters.csproj", "{319607E4-690D-4441-A6BD-EDB70CCB851A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,14 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{319607E4-690D-4441-A6BD-EDB70CCB851A} = {0E37CB64-3BA3-4AC0-A0AC-2825E711BC2F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319607E4-690D-4441-A6BD-EDB70CCB851A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319607E4-690D-4441-A6BD-EDB70CCB851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319607E4-690D-4441-A6BD-EDB70CCB851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319607E4-690D-4441-A6BD-EDB70CCB851A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
