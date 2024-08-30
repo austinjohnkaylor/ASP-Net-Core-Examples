@@ -1,4 +1,6 @@
-namespace How_to_create_and_use_a_convention_based_middleware;
+using How_to_create_and_use_a_convention_based_middleware;
+
+namespace ASPNetCore.Fundamentals.Middleware.How_to_create_and_use_a_convention_based_middleware;
 
 /// <summary>
 /// An extension method for adding the <see cref="RequestCultureMiddleware"/> to the request pipeline.

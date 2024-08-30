@@ -4,7 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <RootNamespace>How_to_create_and_use_a_convention_based_middleware</RootNamespace>
+        <RootNamespace>ASPNetCore.Fundamentals.Middleware.How_to_create_and_use_a_convention_based_middleware</RootNamespace>
     </PropertyGroup>
 
 </Project>
