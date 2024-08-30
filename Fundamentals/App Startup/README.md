@@ -26,8 +26,9 @@ Startup filters can be used for the following purposes:
 To use a startup filter, you need to create a class that implements the IStartupFilter interface. The IStartupFilter interface has a single method called Configure that takes a StartupDelegate and returns a StartupDelegate. The Configure method can be used to add services and middleware to the application.
 
 ## Add Configuration at Startup from External Assembly
-
+`TODO`
 ## Using an Explicit Startup Class
+`TODO`
 
 [Back to Fundamentals](../README.md) |
 [Back to Solution Home](../../README.md) |
